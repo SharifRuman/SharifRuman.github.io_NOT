@@ -2,7 +2,7 @@
 
 ### ENGO 551 - Adv. Topics on Geospatial Technologies
 
-In this project I built a portfolio website for myself. The website consists of multiple webpages. There are a total of 6 different HTML files. I built the website with the Bootstrap 5 framework. Also used both CSS and SCSS properties to style my website.
+As part of this project, I created a portfolio website for myself. The website consists of several webpages. The website contains six HTML files and is built with the Bootstrap 5 framework. My website was styled using both CSS and SCSS properties.
 
 #### DEMO : [sharifruman.github.io](https://sharifruman.github.io)
 
