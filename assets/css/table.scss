@@ -1,0 +1,38 @@
+$background: #577290;
+$base: #00203F;
+$logo-optional: #2feb96a1;
+$base-optional: #00203F;
+$logo: #2feb96a1;
+
+.work-table {
+    width: 100%;
+    thead {
+        border-top: 2px solid $logo-optional;
+        border-bottom: 2px solid $logo-optional;
+        th {
+            text-transform: uppercase;
+            text-align: center;
+            padding: 10px;
+            color: $base;
+            border: 2px solid $logo;
+        }
+    }
+    tbody {
+        tr {
+            border-bottom: 2px solid $logo;
+            color: $base-optional;
+            td {
+                padding: 10px;
+                border: 2px solid $logo;
+            }
+            th {
+                padding-left: 10px;
+                border: 2px solid $logo;
+            }
+        }
+    }
+}
+
+.publications-table{
+    @extend .work-table;
+}
